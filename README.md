@@ -1,6 +1,6 @@
-#Tensorflow Charbot
+# Tensorflow Chatbot
 
-##Creating Conversation Pickle
+## Creating Conversation Pickle
 
 ```
 python nltkdownload.py
